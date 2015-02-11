@@ -1,5 +1,5 @@
 // Sketch Plugin: Generate Animated GIF
-// Source: github.com/NathanRutzky/Generate-GIF
+// Source: github.com/ByNathan/Generate-GIF
 // Version: 1.0.1
 
 var scriptPath = sketch.scriptPath
